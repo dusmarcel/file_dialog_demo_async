@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/org/keienb/file_dialog_demo_async">
+        <file compressed="true" preprocess="xml-stripblanks">window.ui</file>
+    </gresource>
+</gresources>
