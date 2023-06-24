@@ -1,0 +1,13 @@
+[package]
+name = "file_dialog_demo_async"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gtk = { version = "0.6.6", package = "gtk4", features = ["v4_10"] }
+open = "4.2.0"
+
+[build-dependencies]
+glib-build-tools = "0.17.10"
