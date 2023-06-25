@@ -13,7 +13,7 @@
     <object class="GtkApplicationWindow" id="app_window">
         <property name="default_width">800</property>
         <property name="default_height">400</property>
-        <property name="title">File Dialog Demo (synchron)</property>
+        <property name="title">File Dialog Demo (asynchron)</property>
         <child type="titlebar">
             <object class="GtkHeaderBar">
                 <child type="end">
