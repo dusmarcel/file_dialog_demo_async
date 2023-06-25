@@ -2,7 +2,7 @@ use open;
 use gtk::prelude::*;
 use gtk::{Application, ApplicationWindow, Builder, FileDialog, Label, gio, glib};
 use glib::clone;
-use gtk::glib::MainContext;
+use glib::MainContext;
 
 const APP_ID: &str = "org.keienb.file_dialog_demo_async";
 
